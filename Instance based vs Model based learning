@@ -1,1 +1,24 @@
+# Usual/Conventional Machine Learning 
+Prepare the data for model training 
+Train model from training data to estimate model parameters i.e. discover patterns 
+Store the model in suitable form 
+Generalize the rules in form of model, even before scoring instance is seen 
+Predict for unseen scoring instance using model 
+Can throw away input/training data after model training 
+Requires a known model form 
+Storing models generally requires less storage 
 
+
+
+
+
+
+# Instance Based Learning 
+Prepare the data for model training. No difference here 
+Do not train model. Pattern discovery postponed until scoring query received 
+There is no model to store 
+No generalization before scoring. Only generalize for each scoring instance individually as and when seen 
+Predict for unseen scoring instance using training data directly 
+Input/training data must be kept since each query uses part or full set of training observations 
+May not have explicit model form 
+Storing training data generally requires more storage
