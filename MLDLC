@@ -1,0 +1,13 @@
+Data Collection: Collecting and preparing data for use in training and testing a machine learning model.
+
+Data Preparation: Cleaning, preprocessing, and transforming the data into a format suitable for training a model.
+
+Model Selection: Selecting an appropriate model architecture and training algorithm based on the problem domain, data, and desired performance criteria.
+
+Model Training: Using the selected algorithm and data to train the model and optimize its performance.
+
+Model Evaluation: Testing the trained model on new data to evaluate its performance and identify any issues or areas for improvement.
+
+Model Deployment: Deploying the model into a production environment or integrating it into an existing system.
+
+Model Maintenance: Monitoring the model's performance over time and updating it as needed to address any issues or changes in the underlying data or problem domain
